@@ -5,26 +5,26 @@
 36,Female,Sales Associate,7,105000
 52,Male,Director,20,300000
 29,Male,Marketing Analyst,2,30000
-42,Female,Product Manager,12,180000
-31,Male,Sales Manager,4,80000
-26,Female,Marketing Coordinator,1,9500
-38,Male,Senior Scientist,10,100000
-29,Male,Software Developer,3,45000
-48,Female,HR Manager,18,270000
-35,Male,Financial Analyst,6,90000
-40,Female,Project Manager,14,210000
-27,Male,Customer Service Rep,2,30000
-44,Male,Operations Manager,16,240000
-33,Female,Marketing Manager,7,105000
-39,Male,Senior Engineer,12,180000
-25,Female,Data Entry Clerk,2,30000
-51,Male,Sales Director,22,330000
-34,Female,Business Analyst,5,75000
-47,Male,VP of Operations,19,285000
+42,Female,Product Manager,12,150000
+31,Male,Sales Manager,4,50000
+26,Female,Marketing Coordinator,1,12500
+38,Male,Senior Scientist,10,125000
+29,Male,Software Developer,3,37500
+48,Female,HR Manager,18,225000
+35,Male,Financial Analyst,6,75000
+40,Female,Project Manager,14,175000
+27,Male,Customer Service Rep,2,25000
+44,Male,Operations Manager,16,200000
+33,Female,Marketing Manager,7,87500
+39,Male,Senior Engineer,12,150000
+25,Female,Data Entry Clerk,2,25000
+51,Male,Sales Director,22,275000
+34,Female,Business Analyst,5,62500
+47,Male,VP of Operations,19,237500
 30,Male,IT Support,2,25000
 36,Female,Recruiter,9,112500
 41,Male,Financial Manager,13,162500
-28,Female,Social Media Specialist,3,30000
+28,Female,Social Media Specialist,3,37500
 37,Female,Software Manager,11,137500
 24,Male,Junior Developer,1,12500
 43,Female,Senior Consultant,15,187500
@@ -41,11 +41,11 @@
 49,Male,Sales Executive,21,262500
 34,Female,UX Designer,5,62500
 48,Male,Operations Director,18,225000
-30,Male,Network Engineer,3,30000
-36,Female,Administrative Assistant,8,80000
-41,Male,Strategy Consultant,13,130000
-28,Female,Copywriter,2,20000
-32,Male,Account Manager,5,50000
+30,Male,Network Engineer,3,37500
+36,Female,Administrative Assistant,8,100000
+41,Male,Strategy Consultant,13,162500
+28,Female,Copywriter,2,25000
+32,Male,Account Manager,5,62500
 45,Female,Director of Marketing,16,200000
 38,Male,Senior Scientist,11,137500
 25,Male,Help Desk Analyst,5,62500
@@ -68,28 +68,28 @@
 46,Male,IT Manager,19,237500
 31,Female,Customer Service Representative,5,62500
 34,Male,Business Development Manager,8,100000
-49,Female,Senior Financial Analyst,18,306000
-33,Male,Web Developer,6,102000
-39,Female,Recruiter,11,187000
-45,Male,Research Director,16,272000
-28,Male,Technical Support Specialist,2,34000
-42,Female,Creative Director,14,238000
-37,Male,Project Manager,10,170000
-50,Female,Operations Manager,22,374000
-32,Male,Senior Software Engineer,6,102000
-48,Female,Human Resources Director,20,340000
-30,Female,Content Marketing Manager,3,51000
-36,Male,Technical Recruiter,8,72000
+49,Female,Senior Financial Analyst,18,225000
+33,Male,Web Developer,6,75000
+39,Female,Recruiter,11,137500
+45,Male,Research Director,16,200000
+28,Male,Technical Support Specialist,2,25000
+42,Female,Creative Director,14,175000
+37,Male,Project Manager,10,125000
+50,Female,Operations Manager,22,275000
+32,Male,Senior Software Engineer,6,75000
+48,Female,Human Resources Director,20,250000
+30,Female,Content Marketing Manager,3,37500
+36,Male,Technical Recruiter,8,100000
 41,Female,Data Analyst,13,162500
-25,Male,Sales Representative,3,54000
-52,Male,Chief Technology Officer,24,432000
-29,Female,Junior Designer,2,36000
-34,Female,Financial Advisor,10,180000
-27,Male,Junior Account Manager,2,36000
-40,Female,HR Generalist,15,270000
-46,Male,Senior Project Manager,21,378000
-31,Female,Marketing Coordinator,6,108000
-36,Male,Principal Scientist,11,198000
+25,Male,Sales Representative,3,37500
+52,Male,Chief Technology Officer,24,300000
+29,Female,Junior Designer,2,25000
+34,Female,Financial Advisor,10,125000
+27,Male,Junior Account Manager,2,25000
+40,Female,HR Generalist,15,187500
+46,Male,Senior Project Manager,21,262500
+31,Female,Marketing Coordinator,6,75000
+36,Male,Principal Scientist,11,137500
 29,Female,Sales Associate,3,37500
 43,Male,Supply Chain Manager,18,225000
 52,Female,Senior Marketing Manager,25,312500
@@ -102,35 +102,35 @@
 31,Female,Event Coordinator,5,62500
 35,Male,Product Marketing Manager,8,100000
 49,Female,Senior HR Manager,19,237500
-33,Male,Junior Web Developer,5,60000
+33,Male,Junior Web Developer,5,62500
 39,Female,Senior Project Coordinator,13,162500
 44,Male,Chief Data Officer,16,200000
-30,Female,Digital Content Producer,3,60000
-36,Male,IT Support Specialist,7,140000
-41,Female,Senior Marketing Analyst,14,280000
-28,Male,Customer Success Manager,2,40000
-42,Female,Senior Graphic Designer,15,300000
-37,Male,Software Project Manager,9,180000
-50,Female,Supply Chain Analyst,22,440000
-32,Male,Senior Business Analyst,6,125000
-23,Female,Junior Marketing Analyst,1,20000
-31,Male,Senior Financial Analyst,6,120000
-40,Female,Office Manager,15,300000
-48,Male,Principal Engineer,20,400000
-29,Female,Junior HR Generalist,3,60000
-35,Male,Senior Product Manager,10,200000
-42,Female,Sales Manager,17,340000
-53,Male,Director of Marketing,25,500000
-33,Female,Junior Operations Analyst,5,100000
-38,Male,Customer Service Manager,11,220000
-44,Female,Senior Scientist,16,320000
-26,Male,Junior Accountant,2,40000
-37,Female,Senior HR Generalist,9,180000
-45,Male,Sales Operations Manager,18,360000
-32,Female,Marketing Coordinator,4,80000
-34,Male,Senior Software Developer,8,160000
-50,Female,Director of Operations,21,420000
-29,Male,Junior Web Designer,3,60000
+30,Female,Digital Content Producer,3,37500
+36,Male,IT Support Specialist,7,87500
+41,Female,Senior Marketing Analyst,14,175000
+28,Male,Customer Success Manager,2,25000
+42,Female,Senior Graphic Designer,15,187500
+37,Male,Software Project Manager,9,112500
+50,Female,Supply Chain Analyst,22,275000
+32,Male,Senior Business Analyst,6,75000
+23,Female,Junior Marketing Analyst,1,12500
+31,Male,Senior Financial Analyst,6,75000
+40,Female,Office Manager,15,187500
+48,Male,Principal Engineer,20,250000
+29,Female,Junior HR Generalist,3,37500
+35,Male,Senior Product Manager,10,125000
+42,Female,Sales Manager,17,212500
+53,Male,Director of Marketing,25,312500
+33,Female,Junior Operations Analyst,5,62500
+38,Male,Customer Service Manager,11,137500
+44,Female,Senior Scientist,16,200000
+26,Male,Junior Accountant,2,25000
+37,Female,Senior HR Generalist,9,112500
+45,Male,Sales Operations Manager,18,225000
+32,Female,Marketing Coordinator,4,50000
+34,Male,Senior Software Developer,8,100000
+50,Female,Director of Operations,21,262500
+29,Male,Junior Web Designer,3,37500
 40,Female,Senior Training Specialist,12,240000
 47,Male,Senior Research Scientist,22,440000
 27,Male,Junior Sales Representative,1,20000
