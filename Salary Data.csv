@@ -341,31 +341,31 @@
 43,Male,Director of Marketing,18,225000
 31,Female,Junior Financial Analyst,3,37500
 41,Male,Senior Product Manager,14,175000
-44,Female,Senior Data Engineer,16,200000
-33,Male,Junior Business Analyst,4,36000
-35,Female,Senior Marketing Analyst,8,72000
-45,Male,Director of Engineering,19,171000
-28,Female,Junior Operations Manager,1,9000
-36,Male,Senior Business Development Manager,8,100000
-44,Female,Senior Data Scientist,16,200000
-31,Male,Junior Marketing Coordinator,3,37500
-38,Female,Senior Business Analyst,10,125000
-48,Male,Director of Marketing,21,262500
-31,Female,Junior Business Development Associate,3,37500
-40,Male,Senior Financial Analyst,12,150000
-45,Female,Senior UX Designer,16,200000
-33,Male,Junior Product Manager,4,100000
-36,Female,Senior Marketing Manager,8,200000
-47,Male,Director of Operations,19,475000
-29,Female,Junior Project Manager,2,50000
-34,Male,Senior Operations Coordinator,7,175000
-44,Female,Senior Business Analyst,15,375000
-33,Male,Junior Marketing Specialist,5,125000
-35,Female,Senior Financial Manager,8,200000
-43,Male,Director of Marketing,18,450000
-31,Female,Junior Financial Analyst,3,75000
-41,Male,Senior Product Manager,14,350000
-44,Female,Senior Data Engineer,16,400000
+44,Female,Senior Data Engineer,16,20000
+33,Male,Junior Business Analyst,4,5000
+35,Female,Senior Marketing Analyst,8,10000
+45,Male,Director of Engineering,19,23750
+28,Female,Junior Operations Manager,1,1250
+36,Male,Senior Business Development Manager,8,10000
+44,Female,Senior Data Scientist,16,20000
+31,Male,Junior Marketing Coordinator,3,3750
+38,Female,Senior Business Analyst,10,12500
+48,Male,Director of Marketing,21,26250
+31,Female,Junior Business Development Associate,3,3750
+40,Male,Senior Financial Analyst,12,15000
+45,Female,Senior UX Designer,16,20000
+33,Male,Junior Product Manager,4,5000
+36,Female,Senior Marketing Manager,8,10000
+47,Male,Director of Operations,19,23750
+29,Female,Junior Project Manager,2,2500
+34,Male,Senior Operations Coordinator,7,8750
+44,Female,Senior Business Analyst,15,18750
+33,Male,Junior Marketing Specialist,5,6250
+35,Female,Senior Financial Manager,8,10000
+43,Male,Director of Marketing,18,22500
+31,Female,Junior Financial Analyst,3,3750
+41,Male,Senior Product Manager,14,17500
+44,Female,Senior Data Engineer,16,20000
 33,Male,Junior Business Analyst,4,40000
 35,Female,Senior Marketing Analyst,8,80000
 43,Male,Director of Operations,19,190000
